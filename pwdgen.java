@@ -8,7 +8,7 @@ public class PasswordGenerator
 {
     public static void main(String[] args)
     {
-        int length = 10; // password length
+        int length = 15; // password length
         System.out.println(generatePswd(length));
     }
     static char[] generatePswd(int len)
