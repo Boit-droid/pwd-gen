@@ -4,10 +4,6 @@ Generate random strong password in Java
 
 Quick Setup
 
-To compile the file, open your terminal and type
-
-	$ javac filename.java
-
 To run the generated class file, use
 
 	$ java filename
